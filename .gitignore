@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pkl
+
+# Virtual envs
+venv/
+.env/
+.venv/
+
+# macOS
+.DS_Store
+
+# Logs
+*.log
+
+# Python tooling
+.pytest_cache/
+.mypy_cache/
+.ipynb_checkpoints/
+
+# Kubernetes
+*.yaml.save
+
