@@ -1,3 +1,5 @@
 torchvision
 numpy
 Pillow
+boto3
+pandas
